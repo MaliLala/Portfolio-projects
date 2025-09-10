@@ -1,3 +1,6 @@
 [submodule "MarketMateTestAutomation"]
 	path = MarketMateTestAutomation
 	url = https://github.com/MaliLala/MarketMateTestAutomation.git
+[submodule "School-tasks"]
+	path = School-tasks
+	url = https://github.com/MaliLala/School-tasks.git
