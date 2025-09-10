@@ -1,0 +1,3 @@
+[submodule "MarketMateTestAutomation"]
+	path = MarketMateTestAutomation
+	url = https://github.com/MaliLala/MarketMateTestAutomation.git
